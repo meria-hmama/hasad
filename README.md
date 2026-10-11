@@ -8,7 +8,7 @@ It's a concept project I built for practice, so the producers and batches you se
 made up. I made it during my Frontend Web Development internship at Zenvio Solutions,
 as my first project with React, Next.js and Tailwind CSS.
 
-**See it live:** _(link coming after deployment)_
+**See it live:** [https://hasad-sepia.vercel.app/]
 
 ## Why this idea?
 
