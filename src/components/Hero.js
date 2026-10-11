@@ -22,10 +22,10 @@ export default function Hero() {
         </div>
       </div>
 
-      <div className="rounded-3xl bg-white p-8 shadow-xl ring-1 ring-stone-200">      {/* the mock batch card */}
+      <div className="rounded-3xl bg-white p-8 shadow-xl ring-1 ring-stone-200">      
         <p className="text-xs font-semibold uppercase tracking-widest text-stone-400">Batch #OL-2026-014</p>
         <h2 className="mt-2 text-2xl font-bold text-stone-900">Extra virgin olive oil</h2>
-        <dl className="mt-6 space-y-4 text-sm">                                         {/* a list of label and value pairs */}
+        <dl className="mt-6 space-y-4 text-sm">                                         
           <div className="flex justify-between border-b border-stone-100 pb-3">
             <dt className="text-stone-500">Producer</dt><dd className="font-semibold">Cooperative Amal, Sfax</dd>
           </div>
